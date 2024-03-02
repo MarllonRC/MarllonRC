@@ -1,6 +1,6 @@
 ## Olá eu sou a Marllon Rafael, estudante de programação e tecnologia!
 
-## E como estudante estas são as tecnologias que estudo e entendo no momento:
+## Estas são as tecnologias que estudo e entendo no momento:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
